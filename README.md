@@ -17,7 +17,8 @@ ToDoIt is a full-stack MEAN app that allows users to sign up for an account and 
 
 See the running demo at:
 
-https://todocake.mybluemix.net
+<!--- https://todocake.mybluemix.net --->
+https://todo-cake.netlify.app/
 
 ## Development
 
@@ -34,7 +35,7 @@ npm start
 ```
 
 
-## Deployment
+<!--## Deployment
 
 The application can be deployt to a Cloud Foundry server, e.g. at IBM Bluemix.
 
@@ -45,6 +46,7 @@ cf login
 cf create-service mongodb 100 mebo-mongo
 cf push
 ```
+-->
 
 ## Resources
 
