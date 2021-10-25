@@ -13,11 +13,11 @@ Read more at: https://www.coursera.org/learn/web-development-project.
 
 ToDoIt is a full-stack MEAN app that allows users to sign up for an account and store To Do items to their account
 
-## Demo
+<!-- ## Demo
 
 See the running demo at:
 
-https://todocake.mybluemix.net 
+https://todocake.mybluemix.net -->
 <!-- https://todo-cake.netlify.app/ -->
 
 ## Development
